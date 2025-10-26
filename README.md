@@ -1,6 +1,6 @@
 
 # 💫 About Me
-I am an Engineering Gratuate in Artificial Intelligence and Data Science. I am skilled in Java, Python, SQL, DSA, Backed and frontend frameworks and AI worksflows and I have build a real time applications like Real time interview assistant exploring AI tools, Sericultire disease detection systems and Super store managerment system. Im quickly Adaptable, Strong problem solving skills, Communication. Im eager to apply my skills in the real world projects in the Tech industry.
+I am a Gratuate Engineer in Artificial Intelligence and Data Science. I am skilled in Java, Python, SQL, DSA, Backed and frontend frameworks and AI worksflows and I have build a real time applications like Real time interview assistant exploring AI tools, Sericultire disease detection systems and Super store managerment system. Im quickly Adaptable, Strong problem solving skills, Communication. Im eager to apply my skills in the real world projects in the Tech industry.
 
 
 ## 🌐 Socials:
